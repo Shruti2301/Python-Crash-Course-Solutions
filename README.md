@@ -2,7 +2,7 @@
 
 This repository contains my solutions and practice exercises from **Python Crash Course (3rd Edition)** by **Eric Matthes**. It documents my journey of learning Python fundamentals through hands-on coding exercises and projects.
 
-> 📚 Book: *Python Crash Course: A Hands-On, Project-Based Introduction to Programming (3rd Edition)* by Eric Matthes. :contentReference[oaicite:0]{index=0}
+> 📚 Book: *Python Crash Course: A Hands-On, Project-Based Introduction to Programming (3rd Edition)* by Eric Matthes.
 
 ---
 
